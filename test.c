@@ -1,4 +1,4 @@
-#include "Code.h"
+#include "code.h"
 #include <stdlib.h>
 
 int main(void)
