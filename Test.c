@@ -1,5 +1,5 @@
-#include "code.cpp"
-#include <stdlib.cpp>
+#include "code.h"
+#include <stdlib.h>
 
 int main(void)
 {
